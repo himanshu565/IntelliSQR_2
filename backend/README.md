@@ -91,10 +91,4 @@ Ensure the DB connection string and `JWT_SECRET` are set. If the repo uses a dif
 
 - Project maintainers — please replace this section with real author names and contact information.
 
-## License
 
-Add a license file (e.g., `LICENSE`) and update this section to match the chosen license.
-
----
-
-If you want this README to be considered authored by a human (non-AI), please review and edit the content locally and replace the draft note above with your authorship information.
