@@ -22,7 +22,7 @@
 1. Clone the repository and install dependencies
 
 cd backend
-npm install
+npm installl
 
 2. Create an `.env` file in the project root with the required environment variables. Example:
 
